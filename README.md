@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Euhan Sarkar
 #### Programmer
-
-I am Programmer. Nowadays I am learning JavaScript. 
+#### FrontEnd Developer
 
 Skills: HTML | CSS | JAVASCRIPT | REACT | NODEJS | EXPRESSJS | MONGODB
 
