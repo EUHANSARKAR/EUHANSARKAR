@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Euhan Sarkar
+### Hi there 👋, I'm Euhan Sarkar
 #### Programmer
 
 I am Programmer. Nowadays I am learning JavaScript. 
