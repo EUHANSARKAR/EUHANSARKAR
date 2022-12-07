@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Euhan Sarkar
 #### Programmer
-![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![Programmer]
 I am Programmer. Nowadays I am learning JavaScript. 
 
 Skills:  JS / HTML / CSS
